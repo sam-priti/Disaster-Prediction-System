@@ -53,10 +53,10 @@ scikit-learn
 📊 Data Source
 Disaster data sourced from EM-DAT: The International Disaster Database — maintained by the Centre for Research on the Epidemiology of Disasters (CRED).
 
-ML Models:
+🤖 ML Models
 ModelTypeFileFlood PredictionXGBoost ClassifierFinal_XGBoost_Model_for_Flood_Prediction.pklEarthquake PredictionScikit-learn ModelEarthquake_Model.pklWildfire PredictionDeep Learning (Keras)Wildfire_Prediction_Model.h5
 
-Authors:
+👥 Authors
 
 Sampriti Mohanty
 Himanshu Maurya
