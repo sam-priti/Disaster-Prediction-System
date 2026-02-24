@@ -1,4 +1,4 @@
-Disaster Prediction System
+#Disaster Prediction System
 A Streamlit-based interactive dashboard for visualizing global natural disaster data and predicting disaster risk using machine learning models for floods, earthquakes, and wildfires.
 
  Features-
