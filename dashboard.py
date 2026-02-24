@@ -7,7 +7,7 @@ import os
 print(os.listdir())
 
 # Load the disaster data from CSV
-data = pd.read_csv('/Users/himanshumaurya/Documents/UNI Archive /CSP 2/Dashboard/Top 9 Disasters Filtered.csv')
+data = pd.read_csv('Top 9 Disasters Filtered.csv')
 
 # Verify column names
 print(data.columns.tolist())
