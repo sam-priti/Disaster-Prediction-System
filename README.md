@@ -12,6 +12,7 @@ A Streamlit-based interactive dashboard for visualizing global natural disaster 
 
 
 ## Project Structure
+​```
 Disaster-Prediction-System/
 │
 ├── dashboard.py                          # Main Streamlit dashboard app
@@ -27,6 +28,7 @@ Disaster-Prediction-System/
 │
 ├── requirements.txt
 └── .gitignore
+​```
 
 ## Getting Started
 1. Clone the repository
