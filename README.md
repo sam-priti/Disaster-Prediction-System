@@ -1,7 +1,7 @@
-🌍 Disaster Prediction System
+# Disaster Prediction System
 A Streamlit-based interactive dashboard for visualizing global natural disaster data and predicting disaster risk using machine learning models for floods, earthquakes, and wildfires.
 
-📌 Features
+## Features
 
 🗺️ Interactive World Map — visualize historical disasters by type and year range using Folium
 📊 Data Analytics — summary statistics, total deaths, affected populations, and economic damage
@@ -11,7 +11,7 @@ A Streamlit-based interactive dashboard for visualizing global natural disaster 
 🔍 Filter by Disaster Type & Year Range — interactive sidebar controls
 
 
-🗂️ Project Structure
+## Project Structure
 Disaster-Prediction-System/
 │
 ├── dashboard.py                          # Main Streamlit dashboard app
@@ -28,7 +28,7 @@ Disaster-Prediction-System/
 ├── requirements.txt
 └── .gitignore
 
-🚀 Getting Started
+## Getting Started
 1. Clone the repository
 bashgit clone https://github.com/sam-priti/Disaster-Prediction-System.git
 cd Disaster-Prediction-System
@@ -40,7 +40,7 @@ bashpip install -r requirements.txt
 4. Run the dashboard
 bashstreamlit run dashboard.py
 
-📦 Requirements
+## Requirements
 streamlit
 pandas
 folium
@@ -50,13 +50,13 @@ xgboost
 tensorflow
 scikit-learn
 
-📊 Data Source
+## Data Source
 Disaster data sourced from EM-DAT: The International Disaster Database — maintained by the Centre for Research on the Epidemiology of Disasters (CRED).
 
-🤖 ML Models
+## ML Models
 ModelTypeFileFlood PredictionXGBoost ClassifierFinal_XGBoost_Model_for_Flood_Prediction.pklEarthquake PredictionScikit-learn ModelEarthquake_Model.pklWildfire PredictionDeep Learning (Keras)Wildfire_Prediction_Model.h5
 
-👥 Authors
+## Authors
 
 Sampriti Mohanty
 Himanshu Maurya
